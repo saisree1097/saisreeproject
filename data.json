@@ -1,0 +1,34 @@
+{
+ "basics":{
+   "photo":"love u to all my friends.jpg",
+   "name":"saisree",
+   "email":"d.saisreekk@gmail.com",
+   "mobile":"986658144"
+ },
+"education":[
+  {
+    "course":"Btech(Computer science and engineering)",
+    "college":[
+      "G pullaiah college of engineering and technology",
+      "2015-2019",
+      "70"
+    ]
+  },
+  {
+    "course":"Intermediate(MPC)",
+    "college":[
+      "Narayana junior college",
+      "2013-2015",
+      "80"
+    ]
+  },
+  {
+    "course":"SSC",
+    "college":[
+      "Everest english medium high school",
+      "2013",
+      "70"
+    ]
+  }
+]
+}
