@@ -32,13 +32,13 @@
   color: #000;
 }
 h1{
-  color: #fff;
+  color: white;
 }
  h1.hover{
    color: pink;
  }
 h2{
-  color: black;
+  color: white;
 }
 h2:hover{
   color: pink;
