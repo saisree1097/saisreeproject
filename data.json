@@ -33,15 +33,15 @@
 ],
 "skills":[
   {
-    "name":"webtechnologies",
+    "name":"webtechnologies:",
     "value":"HTML,CSS"
   },
   {
-    "name":"operating systems",
+    "name":"operating systems:",
     "value":"Windows,Linux"
   },
   {
-    "name":"Programming Languages",
+    "name":"Programming Languages:",
     "value":"C,C++,Java"
   }
 ]
