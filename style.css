@@ -10,13 +10,13 @@
   border:3px solid grey;
   margin:5px 3px 2px 10px;
   padding: 5px 3px 2px 10px;
-  background-color: pink	;
+  background-color: solid pink	;
   /* text-align: center; */
 }
 .left img{
   width:200px;
   border-radius: 50%;
-  border:8px red;
+  border:8px solid red;
  box-shadow:10px;
 }
 .right{
