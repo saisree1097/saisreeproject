@@ -10,13 +10,13 @@
   border:3px solid grey;
   margin:5px 3px 2px 10px;
   padding: 5px 3px 2px 10px;
-  background-color: #E8E8E8		;
+  background-color: pink	;
   /* text-align: center; */
 }
 .left img{
   width:200px;
   border-radius: 50%;
-  border:8px solid black;
+  border:8px red;
  box-shadow:10px;
 }
 .right{
@@ -24,7 +24,7 @@
   border: 3px solid grey;
   margin: 5px 3px 2px 10px;
   padding: 5px 3px 2px 10px;
-  background-color: #E8E8E8;
+  background-color: skyblue;
   /* box-shadow: 3px 2px #000; */
   /* text-align: center; */
 }
